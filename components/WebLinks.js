@@ -27,7 +27,7 @@ const Links = () => {
   const footerText = bioData[0].footerText;
   const author = bioData[0].author;
   const authorURL = bioData[0].authorURL;
-  const titleImage = "link/title.svg";
+  const titleImage = "./link/title.svg";
 
   // Check what class to use oval or hex for avatar
   const avatarShape = bioData[0].nftAvatar ? `nft-clipped` : `oval-clipped`
@@ -168,7 +168,7 @@ const Links = () => {
               {(newProduct) ? <NewSection>
                 <a href={newProductUrl} target="_blank" rel="noreferrer">
                   <img
-                    src={'link/newproduct.png'}
+                    src={'./link/newproduct.png'}
                     className="newproduct"
                   />
                 </a>
