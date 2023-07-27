@@ -1,9 +1,9 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'nxt lnk',
-        username: 'nxtlnk.vercel.app',
-        url: 'https://nxtlnk.vercel.app',
+        name: 'Shubhro Jyoti Dey',
+        username: 'shubhro.links',
+        url: 'https://shubhro-jyoti-dey.github.io/',
         titleImg: true,
         avatar: '/avatar.png',
         nftAvatar: true,
@@ -13,7 +13,7 @@ const bioData = [
         subdescShow: true,
         newProductUrl: 'https://3dicons.co',
         newProduct: true,
-        author: 'realvjy',
+        author: 'shubhro jyoti dey',
         authorURL: 'https://twitter.com/realvjy',
         footerText: 'made by'
     },
