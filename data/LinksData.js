@@ -5,105 +5,105 @@ const webLinks = [
         title: 'Twitter',
         url: 'https://twitter.com/shubhrojyotide1',
         type: 'social',
-        icon: 'public/twitter.svg',
+        icon: 'link/twitter.svg',
         on: true
     },
     {
         title: 'Instagram',
         url: 'https://instagram.com/cognitive_cacophony',
         type: 'social',
-        icon: '/insta.svg',
+        icon: 'link/insta.svg',
         on: true
     },
     {
         title: 'Dribbble',
         url: 'https://dribbble.com/realvjy',
         type: 'social',
-        icon: '/dribbble.svg',
+        icon: 'link/dribbble.svg',
         on: false
     },
     {
         title: 'Medium',
         url: 'https://medium.com/@deyshubhrojyoti',
         type: 'social',
-        icon: '/medium.svg',
+        icon: 'link/medium.svg',
         on: true
     },
     {
         title: 'Github',
         url: 'https://github.com/shubhro-jyoti-dey',
         type: 'social',
-        icon: '/github.svg',
+        icon: 'link/github.svg',
         on: true
     },
     {
         title: 'Youtube',
         url: 'https://youtube.com/realvjy',
         type: 'social',
-        icon: '/youtube.svg',
+        icon: 'link/youtube.svg',
         on: false
     },
     {
         title: 'Figma',
         url: 'https://figma.com/@realvjy',
         type: 'social',
-        icon: '/figma.svg',
+        icon: 'link/figma.svg',
         on: false
     },
     {
         title: 'Behance',
         url: 'https://behance.net/realvjy',
         type: 'social',
-        icon: '/behance.svg',
+        icon: 'link/behance.svg',
         on: false
     },
     {
         title: 'Linkedin',
         url: 'https://www.linkedin.com/in/shubhrojyotidey/',
         type: 'social',
-        icon: '/linkedin.svg',
+        icon: 'link/linkedin.svg',
         on: true
     },
     {
         title: 'Mastodon',
         url: 'https://mastodon.online/@realvjy',
         type: 'social',
-        icon: '/mastodon.svg',
+        icon: 'link/mastodon.svg',
         on: false
     },
     {
         title: 'Hive Social',
         url: 'https://www.hivesocial.app/?@realvjy',
         type: 'social',
-        icon: '/hive.svg',
+        icon: 'link/hive.svg',
         on: false
     },
     {
         title: 'Post',
         url: 'https://www.post.news/realvjy',
         type: 'social',
-        icon: '/post.svg',
+        icon: 'link/post.svg',
         on: false
     },
     {
         title: 'foundation',
         url: 'https://vjy.me',
         type: 'nft',
-        icon: '/foundation.svg',
+        icon: 'link/foundation.svg',
         on: false
     },
     {
         title: 'opensea',
         url: 'https://vjy.me',
         type: 'nft',
-        icon: '/opensea.svg',
+        icon: 'link/opensea.svg',
         on: false
     },
     {
         title: 'new collection',
         url: 'https://vjy.me',
         type: 'nft',
-        icon: '/opensea.svg',
+        icon: 'link/opensea.svg',
         on: false
     },
     // Install section
@@ -111,28 +111,28 @@ const webLinks = [
         title: 'Use this template',
         url: 'https://github.com/realvjy/nxt-lnk/generate',
         type: 'projects',
-        icon: '/use.png',
+        icon: 'link/use.png',
         on: true
     },
     {
         title: 'Deploy on Vercel',
         url: 'https://vercel.com/import/git?s=https://github.com/realvjy/nxt-lnk',
         type: 'projects',
-        icon: '/vercel.svg',
+        icon: 'link/vercel.svg',
         on: true
     },
     {
         title: 'Documentation',
         url: 'https://github.com/realvjy/nxt-lnk#nxt-lnk',
         type: 'projects',
-        icon: '/doc.png',
+        icon: 'link/doc.png',
         on: true
     },
     {
         title: 'Github',
         url: 'https://github.com/realvjy/nxt-lnk',
         type: 'projects',
-        icon: '/github-fill.svg',
+        icon: 'link/github-fill.svg',
         on: true
     },
 
@@ -140,7 +140,7 @@ const webLinks = [
         title: 'Buy Me a Coffee',
         url: 'https://www.buymeacoffee.com/realvjy',
         type: 'other',
-        icon: '/bmc.png',
+        icon: 'link/bmc.png',
         on: true
     },
 
@@ -148,7 +148,7 @@ const webLinks = [
         title: 'link demo',
         url: 'https://vjy.me/lnk',
         type: 'other',
-        icon: '/vjy.png',
+        icon: 'link/vjy.png',
         on: true
     },
 
@@ -156,7 +156,7 @@ const webLinks = [
         title: 'maker website',
         url: 'https://vjy.me',
         type: 'other',
-        icon: '/vjy.png',
+        icon: 'link/vjy.png',
         on: true
     },
 ];
