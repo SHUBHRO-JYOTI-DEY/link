@@ -6,7 +6,7 @@ const bioData = [
         username: 'shubhro.links',
         url: 'https://shubhro-jyoti-dey.github.io/',
         titleImg: true,
-        avatar: '/avatar.jpg',
+        avatar: './link/avatar.jpg',
         nftAvatar: true,
         description: 'Finance Major, AI Engineer and Photographer',
         descShow: true,
