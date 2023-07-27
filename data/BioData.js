@@ -1,5 +1,4 @@
 // date: 1 Aug, 2022
-import img1 from '../public/avatar.png'
 
 const bioData = [
     {
@@ -7,11 +6,11 @@ const bioData = [
         username: 'shubhro.links',
         url: 'https://shubhro-jyoti-dey.github.io/',
         titleImg: true,
-        avatar: img1,
+        avatar: '/avatar.png',
         nftAvatar: true,
-        description: 'AI Engineer, Amateur Photographer, and a Finance student. Building and designing products for the Future!',
+        description: 'Finance Major, AI Engineer and Photographer',
         descShow: true,
-        subdesc: 'Use this template and deploy on vercel for free',
+        subdesc: 'Building and designing products for the Future!',
         subdescShow: true,
         newProductUrl: 'https://duo-studio.co',
         newProduct: true,

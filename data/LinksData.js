@@ -3,14 +3,14 @@ const webLinks = [
     // All social profile
     {
         title: 'Twitter',
-        url: 'https://twitter.com/realvjy',
+        url: 'https://twitter.com/shubhrojyotide1',
         type: 'social',
-        icon: '/twitter.svg',
+        icon: 'public/twitter.svg',
         on: true
     },
     {
         title: 'Instagram',
-        url: 'https://instagram.com/realvjy',
+        url: 'https://instagram.com/cognitive_cacophony',
         type: 'social',
         icon: '/insta.svg',
         on: true
@@ -24,14 +24,14 @@ const webLinks = [
     },
     {
         title: 'Medium',
-        url: 'https://medium.com/@realvjy',
+        url: 'https://medium.com/@deyshubhrojyoti',
         type: 'social',
         icon: '/medium.svg',
-        on: false
+        on: true
     },
     {
         title: 'Github',
-        url: 'https://github.com/realvjy',
+        url: 'https://github.com/shubhro-jyoti-dey',
         type: 'social',
         icon: '/github.svg',
         on: true
@@ -48,7 +48,7 @@ const webLinks = [
         url: 'https://figma.com/@realvjy',
         type: 'social',
         icon: '/figma.svg',
-        on: true
+        on: false
     },
     {
         title: 'Behance',
@@ -59,17 +59,17 @@ const webLinks = [
     },
     {
         title: 'Linkedin',
-        url: 'https://www.linkedin.com/in/realvjy/',
+        url: 'https://www.linkedin.com/in/shubhrojyotidey/',
         type: 'social',
         icon: '/linkedin.svg',
-        on: false
+        on: true
     },
     {
         title: 'Mastodon',
         url: 'https://mastodon.online/@realvjy',
         type: 'social',
         icon: '/mastodon.svg',
-        on: true
+        on: false
     },
     {
         title: 'Hive Social',
