@@ -25,11 +25,11 @@ export default function Seo({ page }) {
                             alt: `${title}`,
                         },
                     ],
-                    site_name: 'vjy.me',
+                    site_name: 'shubhro.links',
                 }}
                 twitter={{
-                    handle: '@realvjy',
-                    site: 'vjy.me',
+                    handle: '@shubhrojyotide1',
+                    site: 'shubhro-jyoti-dey.github.io',
                     cardType: 'summary_large_image',
                 }}
                 additionalMetaTags={[{

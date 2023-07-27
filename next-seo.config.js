@@ -14,7 +14,7 @@ export default {
                 url: `https://vjy.me/preview.jpg`,
             },
         ],
-        site_name: 'realvjy',
+        site_name: 'shubhro.links',
     },
     twitter: {
         handle: '@realvjy',

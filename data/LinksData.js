@@ -110,7 +110,7 @@ const webLinks = [
     {
         title: 'Use this template',
         url: 'https://github.com/realvjy/nxt-lnk/generate',
-        type: 'install',
+        type: 'babushona',
         icon: '/use.png',
         on: true
     },
