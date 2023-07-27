@@ -49,9 +49,9 @@ const Links = () => {
     return el.type === "social" && el.on
   });
 
-  // Get data for install section
-  const install = allLinks.filter((el) => {
-    return el.type === "install" && el.on
+  // Get data for projects section
+  const projects = allLinks.filter((el) => {
+    return el.type === "projects" && el.on
   });
 
   // Get data for nfts
@@ -122,11 +122,11 @@ const Links = () => {
             </LinkSection>
             {/* Social Icon */}
 
-            {/* Install Section */}
+            {/* projects Section */}
             <LinkSection>
-              <h3>{install[0].type}</h3>
+              <h3>{projects[0].type}</h3>
               {
-                install.map((i) => {
+                projects.map((i) => {
                   return (
                     <a href={i.url} key={i.title} target="_blank" rel="noreferrer">
                       <LinkBox>
@@ -137,7 +137,7 @@ const Links = () => {
                 })
               }
             </LinkSection>
-            {/* End Install Section */}
+            {/* End projects Section */}
 
             {/* NFT Section */}
             {
